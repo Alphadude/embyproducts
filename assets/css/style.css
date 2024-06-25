@@ -349,6 +349,17 @@ input[type="submit"] {
   line-height: var(--body-line-height);
 }
 
+.buton
+{
+    background-color: rgb(7, 55, 99);
+    color: red;
+    border: none;
+    cursor: pointer;
+    padding: 2px 12px 3px 12px;
+    text-decoration: none;
+
+}
+
 input[type="number"] {
   -moz-appearance: textfield;
 }
